@@ -12,56 +12,11 @@
     
     
     <item>
-      <title>Eagle/Infrastruct.</title>
-      <link>/project/eagle/</link>
+      <title>Projects</title>
+      <link>/project/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/project/eagle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FishTrends</title>
-      <link>/project/fishtrends/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/project/fishtrends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecosocar</title>
-      <link>/project/ecosocar/</link>
-      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/project/ecosocar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protocols</title>
-      <link>/project/protocols/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/protocols/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ERC-Lynx</title>
-      <link>/project/erclynx/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/project/erclynx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interact</title>
-      <link>/project/interact/</link>
-      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/project/interact/</guid>
+      <guid>/project/</guid>
       <description></description>
     </item>
     
